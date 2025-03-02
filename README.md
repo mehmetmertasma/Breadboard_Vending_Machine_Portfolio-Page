@@ -19,4 +19,18 @@ Our Vending machine
 
 ![image](https://github.com/user-attachments/assets/74b425e8-ecdf-47a3-8d79-e33d8724032f)
 
+![image](https://github.com/user-attachments/assets/b432eff1-0ea5-436e-b9be-5bebf28f3340)
 
+The circuit has two inputs: COIN and VEND. Pressing the COIN button simulates inserting a coin, while pressing the VEND button triggers the machine to dispense an item, indicated by an LED turning on.
+
+Vending
+
+![image](https://github.com/user-attachments/assets/1b38499f-b7af-4dc1-8785-1f60f5cc2147)
+
+![image](https://github.com/user-attachments/assets/d749b637-7a7b-4585-9492-01121aa3abfa)
+
+![image](https://github.com/user-attachments/assets/f5f4f1a5-343a-428f-820c-9eb456c0f7c6)
+
+References
+
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
